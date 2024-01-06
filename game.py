@@ -7,7 +7,6 @@ This Python program implements a simplified version of the popular game Candy Cr
 
 import random
 
-board = []
 BOARD_ROWS = 5
 BOARD_COLUMNS = 6
 
